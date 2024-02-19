@@ -28,7 +28,7 @@ from Lovechat.modules.helpers import (
 
 
 # Random Start Images
-IMG = [
+IMG121 = w2[
     "https://telegra.ph/file/c1273112d4bddd5f03b7b.jpg",
     "https://telegra.ph/file/c3ebd7f45b134092c975f.jpg",
     "https://telegra.ph/file/025e1073360b2eca8d054.jpg",
