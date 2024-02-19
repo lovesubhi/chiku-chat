@@ -1,5 +1,5 @@
 {
-  "name": "Lovechat",
+  "name": "nexichat",
   "description": "A telegram bot",
   "logo": "https://telegra.ph/file/c1273112d4bddd5f03b7b.jpg",
   "keywords": [
@@ -11,7 +11,7 @@
     "buildpacks": [{
     "url": "heroku/python"
   }],
-  "repository": "https://github.com/subhichiku/Chiku-Chat",
+  "repository": "https://github.com/DAXXTEAM/DAXXCHATBOT",
   "env": {
     "BOT_TOKEN": {
       "description": "A Bot token from @BotFather",
@@ -22,14 +22,6 @@
       "description": "Get a mongodb url from https://cloud.mongodb.com.",
       "required": true,
       "value": ""
-    },
-    "API_ID": {
-      "description": "FROM MY TELEGRAM.ORG",
-      "required": true,
-      "value": ""
-  },
-  "API_HASH": {
-    "description": "FROM MY TELEGRAM.ORG",
-    "required": true,
-    "value": ""
+    }
+  }
 }
